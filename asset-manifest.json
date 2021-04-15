@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Maroom/static/css/main.67457b3b.chunk.css",
-    "main.js": "/Maroom/static/js/main.ca7db4da.chunk.js",
-    "main.js.map": "/Maroom/static/js/main.ca7db4da.chunk.js.map",
+    "main.js": "/Maroom/static/js/main.603b018b.chunk.js",
+    "main.js.map": "/Maroom/static/js/main.603b018b.chunk.js.map",
     "runtime-main.js": "/Maroom/static/js/runtime-main.7338d623.js",
     "runtime-main.js.map": "/Maroom/static/js/runtime-main.7338d623.js.map",
     "static/js/2.a0883b67.chunk.js": "/Maroom/static/js/2.a0883b67.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7338d623.js",
     "static/js/2.a0883b67.chunk.js",
     "static/css/main.67457b3b.chunk.css",
-    "static/js/main.ca7db4da.chunk.js"
+    "static/js/main.603b018b.chunk.js"
   ]
 }
