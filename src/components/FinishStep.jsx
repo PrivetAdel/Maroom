@@ -24,7 +24,7 @@ const useStyles = makeStyles(() => ({
 }));
 
 const transformDate = (date) => {
-  const newDate = date.slice(0, 10).split('-').reverse().join('/');
+  const newDate = String(date).slice(4, 15);
   return newDate;
 };
 
@@ -36,6 +36,7 @@ const FinishStep = ({title}) => {
 
   const {userName, userSurname, userPatronymicName, birthdate} = personalInfo;
   const {email} = mail;
+  console.log(birthdate);
 
   const onBack = useCallback(() => {
     history.goBack();
